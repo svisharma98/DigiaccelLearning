@@ -1,0 +1,7 @@
+npm install redux-persist --save
+npm install @reduxjs/toolkit react-redux --save
+
+npm i semantic-ui-react --save
+
+npm i react-icons --save
+npm i swiper
